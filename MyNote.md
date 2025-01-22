@@ -1,9 +1,7 @@
 # 【MyRepository】
 ### e7oneStudio 20250122
 
-<img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00522.jpg" width="400">
-
-<img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00426.jpg" width="400">
+<img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00522.jpg" width="300"> <img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00426.jpg" width="350">
 
 - https://e7oneStudio.com
 
