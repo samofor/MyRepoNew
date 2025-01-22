@@ -38,3 +38,20 @@ git commit -m "Push Files"
 git push -u origin main
 
 ```
+
+
+## 【MyRepoNew】04_GitHub Branch
+以下是完整的指令流程：
+
+```sh
+mkdir MyRepoNew
+cd MyRepoNew
+git init
+echo "# MyRepoNew" > README.md
+git add README.md
+git commit -m "Initial commit"
+gh repo create MyRepoNew --public
+git push -u origin main
+git checkout -b MyBranch
+git push -u origin MyBranch
+```
