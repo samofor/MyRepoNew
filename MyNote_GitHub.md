@@ -51,6 +51,12 @@ git add README.md
 git commit -m "Initial commit"
 gh repo create MyRepoNew --public
 git push -u origin main
+
 git checkout -b MyBranch
 git push -u origin MyBranch
+```
+
+```sh
+git checkout -b MyBranch-2
+git push -u origin MyBranch-2
 ```
