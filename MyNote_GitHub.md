@@ -7,7 +7,7 @@
 
 
 
-## 【MyRepoNew】01_Loval init
+## 【MyRepoNew】01_Local init
 ```c
 git init
 echo ### Hello World > README.md
@@ -31,7 +31,7 @@ git push -u origin main
 
 ```
 
-## 【MyRepoNew】03_Push 
+## 【MyRepoNew】03_GitHub Push 
 ```c
 git add .
 git commit -m "Push Files" 
