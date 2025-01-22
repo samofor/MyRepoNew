@@ -41,7 +41,6 @@ git push -u origin main
 
 
 ## 【MyRepoNew】04_GitHub Branch
-以下是完整的指令流程：
 
 ```sh
 mkdir MyRepoNew
