@@ -9,7 +9,5 @@ Operation Directory : C:\Users\samofor\Documents\GitHub\MyRepoNew
 
 ---  
 
-"<br>Push Files -- MyBranch-2 ( 2025/01/22 週三, 23:58:01.75 )" 
-"<br>Push Files -- MyBranch-2 ( 2025/01/23 週四,  0:02:39.78 )" 
-" --- Push Files -- MyBranch-2 ( 2025/01/23 週四,  0:09:27.04 )" 
---- Push Files -- MyBranch-2 ( 2025/01/23 週四,  0:10:04.48 ) 
+---  
+Push Files -- MyBranch-2 ( 2025/01/23 週四,  0:12:05.32 ) 
