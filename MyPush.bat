@@ -1,3 +1,3 @@
 git add .
-git commit -m "Push Files" 
+git commit -m "Push Files -- %date%, %time% " 
 git push -u origin main

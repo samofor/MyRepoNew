@@ -1,7 +1,7 @@
 # 【MyRepository】
 ### e7oneStudio 20250122
 
-<img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00333.jpg" width="450"> <img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width="450">
+<img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00333.jpg" width="800"> <!img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width="450">
 
 - https://e7oneStudio.com
 
@@ -59,4 +59,5 @@ git push -u origin MyBranch
 ```sh
 git checkout -b MyBranch-2
 git push -u origin MyBranch-2
+# 會從前面最近的branch複製內容資料
 ```
