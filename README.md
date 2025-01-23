@@ -2,7 +2,7 @@
 # Welcome to MyRepoNew 
 ### by e7oenStudio 
 
-### 20250123 14:18
+### 20250123 14:20
 
 - Test Branch
 - Edit on Local
@@ -13,13 +13,12 @@ Operation Directory : C:\Users\samofor\Documents\GitHub\MyRepoNew
 
 ================ 
 
-<<<<<<< HEAD
+<img src="https://3dpaper.com.tw/wp-content/uploads/LanternEvent_2025B_0001-001600x400-1.png" width="800">
+
 <img src="20240105_AIGC_Bing_美麗藝術性_S002-01.jpg" width=800>
 
 
-=======
 <img src="IMG_Wallpaper--RPI-1920x1280_Temple.jpg">
->>>>>>> f83e7f93bfdbaaba440fd683a58e65a79739a75d
 
 <img src="2014_0629_0719_update_share.jpg" width=800>
 
