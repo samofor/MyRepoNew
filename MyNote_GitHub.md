@@ -61,3 +61,8 @@ git checkout -b MyBranch-2
 git push -u origin MyBranch-2
 # 會從前面最近的branch複製內容資料
 ```
+```sh
+git checkout -b MyBranch-3
+git push -u origin MyBranch-3
+# 會從前面最近的branch複製內容資料
+```
