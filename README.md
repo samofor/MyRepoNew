@@ -9,6 +9,8 @@ Operation Directory : C:\Users\samofor\Documents\GitHub\MyRepoNew
 
 ================ 
 
+<img src="IMG_Wallpaper--RPI-1920x1280_Temple.jpg">
+
 <img src="2014_0629_0719_update_share.jpg" width=800>
 
 ~~~sh  
