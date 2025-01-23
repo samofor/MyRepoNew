@@ -2,7 +2,7 @@
 # Welcome to MyRepoNew 
 ### by e7oenStudio 
 
-### 20250123 13:46 
+### 20250123 14:15
 
 - Test Branch
 - Edit on Local
@@ -13,9 +13,13 @@ Operation Directory : C:\Users\samofor\Documents\GitHub\MyRepoNew
 
 ================ 
 
+<<<<<<< HEAD
 <img src="20240105_AIGC_Bing_美麗藝術性_S002-01.jpg" width=800>
 
 
+=======
+<img src="IMG_Wallpaper--RPI-1920x1280_Temple.jpg">
+>>>>>>> f83e7f93bfdbaaba440fd683a58e65a79739a75d
 
 <img src="2014_0629_0719_update_share.jpg" width=800>
 
