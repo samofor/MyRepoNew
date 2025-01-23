@@ -1,8 +1,6 @@
 ### Hello World 
 # Welcome to MyRepoNew 
 ### by e7oenStudio 
-2025/01/22 ¶g¤T, 18:23:34.46 
----  
-Operation Directory : C:\Users\samofor\Documents\GitHub\MyRepoNew 
-Script Filename : MyRepoNew_01.bat 
----  
+2025/01/22 Â¶gÂ¤T, 18:23:34.46 
+
+<img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_FoFoCup2_00621.jpg" width="800">
