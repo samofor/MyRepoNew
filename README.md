@@ -2,16 +2,14 @@
 # Welcome to MyRepoNew 
 ### by e7oenStudio 
 
-### 20250123 14:20
+### 20250123 14:24
 
 - Test Branch
 - Edit on Local
 
-================
+---
 
-Operation Directory : C:\Users\samofor\Documents\GitHub\MyRepoNew 
-
-================ 
+<img src="Wallpaper_Windows10p_01.jpg" width="800">
 
 <img src="https://3dpaper.com.tw/wp-content/uploads/LanternEvent_2025B_0001-001600x400-1.png" width="800">
 
