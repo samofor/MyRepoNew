@@ -9,6 +9,8 @@
 
 ---
 
+<img src="IMGobj_FuLuMonkey_20160215_c1-900.jpg">
+
 <img src="Wallpaper_Windows10p_01.jpg" width="800">
 
 <img src="https://3dpaper.com.tw/wp-content/uploads/LanternEvent_2025B_0001-001600x400-1.png" width="800">
